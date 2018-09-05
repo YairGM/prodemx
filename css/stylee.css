@@ -1,0 +1,66 @@
+body {
+      font: 400 15px Lato, sans-serif;
+      line-height: 1.8;
+      color: #818181;
+      background-color: rgba(255, 0, 0, 0.01);
+  }
+.navbar {
+    margin-bottom: 0;
+    background-color: rgba(4, 255, 0, 0.01);
+    border: 0;
+    font-size: 12px;
+    letter-spacing: 4px;
+
+}
+
+  .container{
+        background-color: rgba(255, 255, 255, 0);
+  }
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+.jumbotron {
+    background-color:  rgba(4, 255, 0, 0.07);
+    color: rgba(5, 123, 183, 0.71);
+    padding: 40px 25px;
+    font-family: 'Acme', sans-serif;
+}
+.logo {
+    font-size: 200px;
+    color: #43d6c2;
+    font-size: 200px;
+}
+  h2 {
+      font-size: 24px;
+      text-transform: uppercase;
+      color: rgba(48, 48, 48, 0.83);
+      font-weight: 600;
+      margin-bottom: 30px;
+  }
+  h4 {
+      font-size: 45px;
+    text-align: center;
+    font-family: 'Didact Gothic', sans-serif;
+    height: 48px;
+  }  
+.youtube {
+	text-align: center;
+}
