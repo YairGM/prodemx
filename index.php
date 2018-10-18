@@ -1,1 +1,3 @@
-<?php header( 'Location: /index.html' ) ;  ?>
+<?php 
+include 'calobre_nom.php';
+?>
